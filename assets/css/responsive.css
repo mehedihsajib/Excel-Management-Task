@@ -1,0 +1,39 @@
+@media (max-width: 992px) {
+  .top-card-img {
+    position: initial;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+
+  .top-card {
+    margin-left: 10px;
+  }
+
+  .projects-heading {
+    margin-left: 23px;
+  }
+
+  .project-card {
+    margin-bottom: 20px;
+    padding-bottom: 50px;
+    margin-left: -10px;
+  }
+}
+
+@media (max-width: 767px) {
+  .sidebar-wrapper {
+    height: 50vh;
+  }
+}
+
+@media (max-width: 575px) {
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  .search-bar input {
+    margin-left: 0;
+  }
+  .header-right-btn {
+    margin-top: 20px;
+  }
+}
